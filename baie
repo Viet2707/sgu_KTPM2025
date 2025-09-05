@@ -1,7 +1,7 @@
 int main(){
-int num1 =5;
-int num2 = 6;
-int num3 = 8;
+int num1 ;
+int num2 ;
+int num3 ;
  int max = findMax(num1, num2, num3);
 }
 int findMax(int num1, int num2, int num3) {
